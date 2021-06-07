@@ -2,7 +2,7 @@
 
 <img src="https://discord.c99.nl/widget/theme-3/785185776278700072.png" style="width: 5rem;">
 
-# About me:
+# 📌 About me:
 
 - 💻 I’m interested in entrepreneurship and programming
 - 📅 I’m currently 14 years old
