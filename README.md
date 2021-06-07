@@ -11,4 +11,7 @@
 <br/>
 
 ![flproberti GitHub stats](https://github-readme-stats.vercel.app/api?username=flproberti&show_icons=true&theme=algolia) 
+
+<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flproberti&langs_count=8&theme=algolia)
