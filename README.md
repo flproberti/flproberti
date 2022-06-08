@@ -1,7 +1,5 @@
 # 👋 Hi, I’m @flproberti
 
-<img src="https://discord.c99.nl/widget/theme-3/785185776278700072.png" style="width: 5rem;">
-
 # 📌 About me:
 
 - 💻 I’m interested in marketing and programming
