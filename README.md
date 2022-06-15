@@ -3,7 +3,7 @@
 # 📌 About me:
 
 - 💻 I’m interested in marketing and programming
-- 📅 I’m currently 15 years old
+- 📅 I’m currently 16 years old
 - 📚 I’m currently learning lua, javascript, html, css and marketing
 - 📫 You can find me on https://discord.gg/MYcXRTsPjm
 <br/>
